@@ -16,6 +16,7 @@ Research Interests
 - Graph Neural Networks
 - Invariant and Equivariant Neural Networks
 - Generative Models
+- Reinforcement Learning
 
 Publications
 ======
