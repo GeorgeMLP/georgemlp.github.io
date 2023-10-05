@@ -13,9 +13,9 @@ My name is Jiangyan Ma (George Ma). I am an undergraduate student at Peking Univ
 
 Education
 ======
-*Undergraduate; Information and Computing Science*
+- *Undergraduate; Information and Computing Science*
 
-I study at School of Electronic Engineering and Computer Science, Peking University. I majored in Applied Physics in the first two years of college and switched to Information and Computing Science thereafter.
+  I study at School of Electronic Engineering and Computer Science, Peking University. I majored in Applied Physics in the first two years of college and switched to Information and Computing Science thereafter.
 
 Publications
 ======
