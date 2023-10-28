@@ -36,7 +36,7 @@ Research Experience
 
 - June 2023 -- Present; **Baking Symmetry into GFlowNets**
 
-  Currently, I am actively contributing to groundbreaking research as a member of Prof. Yoshua Bengio’s lab at Mila - Quebec AI Institute in Montréal. Leveraging my expertise in invariant networks, I am dedicated to incorporating symmetries into the graph construction process of GFlowNets. Preliminary experiments have demonstrated promising performance enhancements. I submitted my findings to the NeurIPS 2023 AI4Science Workshop, and it was accepted as an **oral** presentation.
+  Currently, I am actively contributing to groundbreaking research as a member of Prof. Yoshua Bengio’s lab at Mila - Quebec AI Institute in Montréal. Leveraging my expertise in invariant networks, I am dedicated to incorporating symmetries into the graph construction process of GFlowNets. Preliminary experiments have demonstrated promising performance enhancements. I submitted my paper titled *Baking Symmetry into GFlowNets* to the NeurIPS 2023 AI4Science Workshop, and it was accepted as an **oral** presentation.
 
 - June 2023 -- Present; **On the Canonizability of Spectral Embedding**
 
