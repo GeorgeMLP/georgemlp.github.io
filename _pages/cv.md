@@ -28,7 +28,7 @@ Research Experience
 
 - July 2022 -- October 2022; **Universal Graph Neural Networks without Message-Passing**
 
-  In this research experience, I focused on studying the expressive capabilities of MLP-based graph neural networks for graph-level tasks. I developed a novel MLP-based GNN called UBoN (Universal Bag of Nodes), specifically designed to achieve universal expressive power on graphs. I submitted my paper titled *Universal Graph Neural Networks without Message Passing* to ICLR 2023, although it was unfortunately rejected.
+  In this research experience, I focused on studying the expressive power of MLP-based graph neural networks for graph-level tasks. I developed a novel MLP-based GNN called UBoN (Universal Bag of Nodes), specifically designed to achieve universal expressive power on graphs. I submitted my paper titled *Universal Graph Neural Networks without Message Passing* to ICLR 2023, although it was unfortunately rejected.
 
 - October 2022 -- August 2023; **Laplacian Canonization for GNN Spectral Embedding**
 
