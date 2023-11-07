@@ -86,7 +86,7 @@ author:
   location         : "Beijing"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=kiYSRMkAAAAJ"
   email            : "georgem@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
