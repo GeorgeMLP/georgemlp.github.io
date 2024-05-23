@@ -67,6 +67,7 @@ Awards
 - Provincial First Prize of National Mathematics Olympiad in Senior
 - Second Prize of the Chinese Mathematics Competitions
 - Successful Participant of the Mathematical Contest in Modeling
+- Top 10 Excellent Graduation Thesis of School of EECS, Peking University
 
 Scholarships
 ======
