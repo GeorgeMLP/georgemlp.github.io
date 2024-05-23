@@ -38,11 +38,11 @@ Research Experience
 
   Currently, I am actively contributing to groundbreaking research as a member of Prof. Yoshua Bengio’s lab at Mila - Quebec AI Institute in Montréal. Leveraging my expertise in invariant networks, I am dedicated to incorporating symmetries into the graph construction process of GFlowNets. Preliminary experiments have demonstrated promising performance enhancements. I submitted my paper titled *Baking Symmetry into GFlowNets* to the NeurIPS 2023 AI4Science Workshop, and it was accepted as an **oral** presentation.
 
-- June 2023 -- Present; **How Powerful are Canonization Algorithms?**
+- June 2023 -- Present; **A Canonization Perspective on Invariant and Equivariant Learning**
 
-  In addition to my ongoing research on Laplacian canonization, I am collaborating with researchers from MIT to investigate the correlation between the canonizability of Laplacian eigenvectors and the expressive capabilities of Graph Neural Networks (GNNs) that employ Laplacian eigenvectors as positional encodings. Our focus is on understanding the properties of sign/basis invariance, permutation equivariance, and universal expressiveness within GNNs. We have discovered that these properties cannot be simultaneously achieved in certain GNN structures. We are currently preparing our findings for submission to ICML.
+  I am currently collaborating with researchers from MIT to investigate the correlation between the canonizability of Laplacian eigenvectors and the expressive power of invariant networks (such as SignNet and BasisNet) that employ Laplacian eigenvectors as positional encodings. We establish the theoretical framework of canonization, and apply it to solve the open problem of the expressive power of invariant networks with equivariance constraints. We also designed novel canonization algorithms for eigenvectors that are superior to prior work and even optimal. We are currently preparing our findings for submission to NeurIPS.
 
-Community Involvement
+<!-- Community Involvement
 ======
 
 - October 2020 -- June 2021; **Companionship Activity Volunteer**
@@ -59,7 +59,7 @@ Community Involvement
 
 - January 2019; **Volunteer to Serve the Elderly**
 
-  Visited an elderly care home in my hometown, Changzhi, along with my high school classmates. We engaged in conversations with the residents and presented them with thoughtful gifts.
+  Visited an elderly care home in my hometown, Changzhi, along with my high school classmates. We engaged in conversations with the residents and presented them with thoughtful gifts. -->
 
 Awards
 ======
