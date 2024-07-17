@@ -3,7 +3,7 @@ title: "A Canonization Perspective on Invariant and Equivariant Learning"
 collection: publications
 permalink: /publication/2024-05-28-a-canonization-perspective
 excerpt: 'We analysed the efficiency and expressiveness of invariant and equivariant networks from a canonization perspective.'
-date: 2023-09-22
+date: 2024-05-28
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2405.18378'
 citation: 'George Ma, Yifei Wang, Derek Lim, Stefanie Jegelka, Yisen Wang (2024). A Canonization Perspective on Invariant and Equivariant Learning. <i>arXiv preprint arXiv:2405.18378</i>.'
