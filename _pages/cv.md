@@ -9,13 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-My name is George Ma (Jiangyan Ma). I am an undergraduate student at Peking University. I am interested in machine learning theories and applications, and am currently doing research on graph learning at Prof. [Yisen Wang](https://yisenwang.github.io/)'s lab. I am particularly interested in invariant and universal neural networks. My email: [georgem@stu.pku.edu.cn](mailto:georgem@stu.pku.edu.cn). My homepage: [George Ma's Homepage](https://georgemlp.github.io). I actively write blogs on Zhihu: [George M's Zhihu Homepage](https://www.zhihu.com/people/george-m-55/posts).
+My name is George Ma (Jiangyan Ma). I am an incoming EECS PhD student at UC Berkeley, advised by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/). Previously, I was an undergraduate student at Peking University, where I did research on graph learning at Prof. [Yisen Wang](https://yisenwang.github.io/)'s lab. My email: [georgem@stu.pku.edu.cn](mailto:georgem@stu.pku.edu.cn). My homepage: [George Ma's Homepage](https://georgemlp.github.io). I actively write blogs on Zhihu: [George M's Zhihu Homepage](https://www.zhihu.com/people/george-m-55/posts).
 
 Education
 ======
 - *Undergraduate; Information and Computing Science*
 
-  I study at School of Electronic Engineering and Computer Science, Peking University. I majored in Applied Physics in the first two years of college and switched to Information and Computing Science thereafter.
+  I studied at School of Electronic Engineering and Computer Science, Peking University. I majored in Applied Physics in the first two years of college and switched to Information and Computing Science thereafter.
+
+- *PhD student; Electrical Engineering and Computer Science*
+
+  I am an incoming EECS PhD student at UC Berkeley.
 
 Publications
 ======
@@ -68,6 +72,7 @@ Awards
 - Second Prize of the Chinese Mathematics Competitions
 - Successful Participant of the Mathematical Contest in Modeling
 - Top 10 Excellent Graduation Thesis of School of EECS, Peking University
+- Excellent Graduation Thesis, Peking University
 
 Scholarships
 ======
