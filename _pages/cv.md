@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My name is George Ma (Jiangyan Ma). I am an incoming EECS PhD student at UC Berkeley, advised by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/). Previously, I was an undergraduate student at Peking University, where I did research on graph learning at Prof. [Yisen Wang](https://yisenwang.github.io/)'s lab. My email: [georgem@stu.pku.edu.cn](mailto:georgem@stu.pku.edu.cn). My homepage: [George Ma's Homepage](https://georgemlp.github.io). I actively write blogs on Zhihu: [George M's Zhihu Homepage](https://www.zhihu.com/people/george-m-55/posts).
+My name is George Ma (Jiangyan Ma). I am an EECS PhD student at UC Berkeley, advised by Prof. [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/). Previously, I was an undergraduate student at Peking University, where I did research on graph learning at Prof. [Yisen Wang](https://yisenwang.github.io/)'s lab. My email: [georgem@stu.pku.edu.cn](mailto:georgem@stu.pku.edu.cn). My homepage: [George Ma's Homepage](https://georgemlp.github.io). I actively write blogs on Zhihu: [George M's Zhihu Homepage](https://www.zhihu.com/people/george-m-55/posts).
 
 Education
 ======
@@ -19,7 +19,7 @@ Education
 
 - *PhD student; Electrical Engineering and Computer Science*
 
-  I am an incoming EECS PhD student at UC Berkeley.
+  Currently, I am an EECS PhD student at UC Berkeley.
 
 Publications
 ======
@@ -40,12 +40,16 @@ Research Experience
 
 - June 2023 -- Present; **Baking Symmetry into GFlowNets**
 
-  Currently, I am actively contributing to groundbreaking research as a member of Prof. Yoshua Bengio’s lab at Mila - Quebec AI Institute in Montréal. Leveraging my expertise in invariant networks, I am dedicated to incorporating symmetries into the graph construction process of GFlowNets. Preliminary experiments have demonstrated promising performance enhancements. I submitted my paper titled *Baking Symmetry into GFlowNets* to the NeurIPS 2023 AI4Science Workshop, and it was accepted as an **oral** presentation.
+  I actively contributed to groundbreaking research as a member of Prof. Yoshua Bengio’s lab at Mila - Quebec AI Institute in Montréal. Leveraging my expertise in invariant networks, I was dedicated to incorporating symmetries into the graph construction process of GFlowNets. Preliminary experiments demonstrated promising performance enhancements. I submitted my paper titled *Baking Symmetry into GFlowNets* to the NeurIPS 2023 AI4Science Workshop, and it was accepted as an **oral** presentation.
 
 - June 2023 -- Present; **A Canonization Perspective on Invariant and Equivariant Learning**
 
-  I am currently collaborating with researchers from MIT to investigate the correlation between the canonizability of Laplacian eigenvectors and the expressive power of invariant networks (such as SignNet and BasisNet) that employ Laplacian eigenvectors as positional encodings. We establish the theoretical framework of canonization, and apply it to solve the open problem of the expressive power of invariant networks with equivariance constraints. We also designed novel canonization algorithms for eigenvectors that are superior to prior work and even optimal. We are currently preparing our findings for submission to NeurIPS.
+  I am currently collaborating with researchers from MIT to investigate the correlation between the canonizability of Laplacian eigenvectors and the expressive power of invariant networks (such as SignNet and BasisNet) that employ Laplacian eigenvectors as positional encodings. We establish the theoretical framework of canonization, and apply it to solve the open problem of the expressive power of invariant networks with equivariance constraints. We also designed novel canonization algorithms for eigenvectors that are superior to prior work and even optimal. Our paper is now under review at NeurIPS 2024.
 
+- July 2024 -- Present; **Local SAEs for Context Adaptation**
+
+  I am collaborating with MIT researchers to explore the interpretability of large language models (LLMs). In our field, we use sparse auto-encoders (SAEs) to extract features from LLMs, which helps us understand and influence their behavior. However, training SAEs is costly, as we must start from scratch for each model, layer, and dataset. Since we often focus on specific contexts (like security or coding), we aim to design "local" SAEs that adapt to different contexts without needing re-training and can be applied to any model. We are preparing this work for submission to an upcoming machine learning conference.
+  
 <!-- Community Involvement
 ======
 
