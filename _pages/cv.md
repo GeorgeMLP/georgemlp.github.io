@@ -38,36 +38,17 @@ Research Experience
 
   During my research, I explored the concept of Laplacian eigenvectors as universal graph positional encodings. Although being universal, there are challenges associated with their universality, such as sign and basis ambiguity. To tackle these issues, I proposed an innovative pre-processing technique called Laplacian Canonization. I submitted my paper titled *Laplacian Canonization: A Minimalist Approach to Sign and Basis Invariant Spectral Embedding* to NeurIPS 2023, and it was accepted as a poster.
 
-- June 2023 -- Present; **Baking Symmetry into GFlowNets**
+- June 2023 -- September 2023; **Baking Symmetry into GFlowNets**
 
   I actively contributed to groundbreaking research as a member of Prof. Yoshua Bengio’s lab at Mila - Quebec AI Institute in Montréal. Leveraging my expertise in invariant networks, I was dedicated to incorporating symmetries into the graph construction process of GFlowNets. Preliminary experiments demonstrated promising performance enhancements. I submitted my paper titled *Baking Symmetry into GFlowNets* to the NeurIPS 2023 AI4Science Workshop, and it was accepted as an **oral** presentation.
 
-- June 2023 -- Present; **A Canonization Perspective on Invariant and Equivariant Learning**
+- June 2023 -- May 2024; **A Canonization Perspective on Invariant and Equivariant Learning**
 
-  I am currently collaborating with researchers from MIT to investigate the correlation between the canonizability of Laplacian eigenvectors and the expressive power of invariant networks (such as SignNet and BasisNet) that employ Laplacian eigenvectors as positional encodings. We establish the theoretical framework of canonization, and apply it to solve the open problem of the expressive power of invariant networks with equivariance constraints. We also designed novel canonization algorithms for eigenvectors that are superior to prior work and even optimal. Our paper is now under review at NeurIPS 2024.
+  I collaborated with researchers from MIT to investigate the correlation between the canonizability of Laplacian eigenvectors and the expressive power of invariant networks (such as SignNet and BasisNet) that employ Laplacian eigenvectors as positional encodings. We established the theoretical framework of canonization, and applied it to solve the open problem of the expressive power of invariant networks with equivariance constraints. We also designed novel canonization algorithms for eigenvectors that are superior to prior work and even optimal. Our paper was accepted in NeurIPS 2024 as a poster.
 
 - July 2024 -- Present; **Local SAEs for Context Adaptation**
 
   I am collaborating with MIT researchers to explore the interpretability of large language models (LLMs). In our field, we use sparse auto-encoders (SAEs) to extract features from LLMs, which helps us understand and influence their behavior. However, training SAEs is costly, as we must start from scratch for each model, layer, and dataset. Since we often focus on specific contexts (like security or coding), we aim to design "local" SAEs that adapt to different contexts without needing re-training and can be applied to any model. We are preparing this work for submission to an upcoming machine learning conference.
-  
-<!-- Community Involvement
-======
-
-- October 2020 -- June 2021; **Companionship Activity Volunteer**
-
-  Engaged in Companionship Activities organized by the Love Society of Peking University, facilitating letter exchanges with students in impoverished areas across China.
-
-- October 2020 -- June 2021; **Advanced Mathematics Tutoring Volunteer**
-
-  Assisted students in Advanced Mathematics by volunteering as a tutor through the Youth Volunteer Association at the School of Mathematics.
-
-- October 2020 -- June 2021; **Computer Repairing Volunteer**
-
-  Provided regular computer repair assistance to fellow students at Peking University, utilizing my computer skills. Activities were organized by the Youth Volunteer Association at the School of EECS.
-
-- January 2019; **Volunteer to Serve the Elderly**
-
-  Visited an elderly care home in my hometown, Changzhi, along with my high school classmates. We engaged in conversations with the residents and presented them with thoughtful gifts. -->
 
 Awards
 ======
