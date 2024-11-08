@@ -23,3 +23,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Professional Activities
+======
+- [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee), NeurIPS 2024
+- Reviewer, ICLR 2025

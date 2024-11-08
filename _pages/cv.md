@@ -50,6 +50,11 @@ Research Experience
 
   I am collaborating with MIT researchers to explore the interpretability of large language models (LLMs). In our field, we use sparse auto-encoders (SAEs) to extract features from LLMs, which helps us understand and influence their behavior. However, training SAEs is costly, as we must start from scratch for each model, layer, and dataset. Since we often focus on specific contexts (like security or coding), we aim to design "local" SAEs that adapt to different contexts without needing re-training and can be applied to any model. We are preparing this work for submission to an upcoming machine learning conference.
 
+Professional Activities
+======
+- [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee), NeurIPS 2024
+- Reviewer, ICLR 2025
+
 Awards
 ======
 
