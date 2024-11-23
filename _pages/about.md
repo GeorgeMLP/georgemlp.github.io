@@ -28,3 +28,4 @@ Professional Activities
 ======
 - [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee), NeurIPS 2024
 - Reviewer, ICLR 2025
+- Reviewer, AISTATS 2025
