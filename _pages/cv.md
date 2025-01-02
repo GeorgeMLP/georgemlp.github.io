@@ -17,7 +17,7 @@ Education
 
   I studied at School of Electronic Engineering and Computer Science, Peking University. I majored in Applied Physics in the first two years of college and switched to Information and Computing Science thereafter.
 
-- *PhD student; Electrical Engineering and Computer Science*
+- *PhD student; Electrical Engineering and Computer Sciences*
 
   Currently, I am an EECS PhD student at UC Berkeley.
 
@@ -42,9 +42,9 @@ Research Experience
 
   I actively contributed to groundbreaking research as a member of Prof. Yoshua Bengio’s lab at Mila - Quebec AI Institute in Montréal. Leveraging my expertise in invariant networks, I was dedicated to incorporating symmetries into the graph construction process of GFlowNets. Preliminary experiments demonstrated promising performance enhancements. I submitted my paper titled *Baking Symmetry into GFlowNets* to the NeurIPS 2023 AI4Science Workshop, and it was accepted as an **oral** presentation.
 
-- June 2023 -- May 2024; **A Canonization Perspective on Invariant and Equivariant Learning**
+- June 2023 -- May 2024; **A Canonicalization Perspective on Invariant and Equivariant Learning**
 
-  I collaborated with researchers from MIT to investigate the correlation between the canonizability of Laplacian eigenvectors and the expressive power of invariant networks (such as SignNet and BasisNet) that employ Laplacian eigenvectors as positional encodings. We established the theoretical framework of canonization, and applied it to solve the open problem of the expressive power of invariant networks with equivariance constraints. We also designed novel canonization algorithms for eigenvectors that are superior to prior work and even optimal. Our paper was accepted in NeurIPS 2024 as a poster.
+  I collaborated with researchers from MIT to investigate the correlation between the canonicalizability of Laplacian eigenvectors and the expressive power of invariant networks (such as SignNet and BasisNet) that employ Laplacian eigenvectors as positional encodings. We established the theoretical framework of canonicalization, and applied it to solve the open problem of the expressive power of invariant networks with equivariance constraints. We also designed novel canonicalization algorithms for eigenvectors that are superior to prior work and even optimal. Our paper was accepted in NeurIPS 2024 as a poster.
 
 - July 2024 -- Present; **Local SAEs for Context Adaptation**
 
@@ -53,7 +53,8 @@ Research Experience
 Professional Activities
 ======
 - [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee), NeurIPS 2024
-- Reviewer, ICLR 2025
+- [Reviewer](https://iclr.cc/Conferences/2025/Reviewers), ICLR 2025
+- Reviewer, AISTATS 2025
 
 Awards
 ======

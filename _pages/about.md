@@ -13,10 +13,10 @@ My name is George Ma (Jiangyan Ma). I am an EECS PhD student at UC Berkeley, adv
 Research Interests
 ======
 
+- Interpretability of Large Language Models
 - Graph Neural Networks
 - Invariant and Equivariant Neural Networks
 - Generative Models
-- Optimization Theory
 
 Publications
 ======
@@ -27,5 +27,5 @@ Publications
 Professional Activities
 ======
 - [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee), NeurIPS 2024
-- Reviewer, ICLR 2025
+- [Reviewer](https://iclr.cc/Conferences/2025/Reviewers), ICLR 2025
 - Reviewer, AISTATS 2025
